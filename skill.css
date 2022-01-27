@@ -94,7 +94,7 @@ header ul li a.active{
 }
 .mysql{
     animation: mysql 2s;
-    width: 70%;
+    width: 50%;
 }
 .dsmlai{
     animation: dsmlai 2s;
@@ -131,7 +131,7 @@ header ul li a.active{
         width:0;
     }
     to{
-        width: 70%;
+        width: 50%;
     }
 }
 @keyframes dsmlai{
