@@ -86,7 +86,7 @@ header ul li a.active{
 }
 .python{
     animation: python 2s;
-    width: 90%;
+    width: 70%;
 }
 .c{
     animation: c 2s;
@@ -115,7 +115,7 @@ header ul li a.active{
         width:0;
     }
     to{
-        width: 90%;
+        width: 70%;
     }
 }
 @keyframes c{
